@@ -33,7 +33,11 @@ body {
     padding-top: 1.5em;
 }
 
-.logo p {
+.logo p{
+    color:black;
+}
+
+.logo p span {
     color: rgb(255, 34, 0);
 }
 
